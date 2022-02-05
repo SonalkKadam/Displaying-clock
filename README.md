@@ -26,10 +26,10 @@ Changelog:
 1.0.0 :-themed-digital-clock is made publicly available
 
 1.0.1 :-Added a prop for defining the height of the clock
+
 1.1.0 :-Updated packages
-1.1.1 :- Updated packages
-         
-         Moved from npm to yarn
+
+1.1.1 :- Updated packages, Moved from npm to yarn
          
 1.1.2 :-Updated packages
 
@@ -37,8 +37,6 @@ Changelog:
 
 1.1.4 :-Fixed crash produced by "export * from"
 
-1.2.0 :-Accepting React 17 as peerDependencies
-
-        Fixed security warnings
+1.2.0 :-Accepting React 17 as peerDependencies, Fixed security warnings
         
 1.2.1 :-Updated the packages
