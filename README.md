@@ -11,4 +11,12 @@ Minor - it will be increased if no major version of the dependat package changes
 
 Patch - it will be increased if there are no changes of the dependat packages, but there are non breaking changes in the code of ThemedDigitalClock.
 
+Theme digital clock uses the following versions:
+
+1.0.x -16.9.0 ver
+
+1.1x -16.9.0 ver
+
+1.2x -16.9 or 17.0.0 ver
+
 Working: The solution automatically loads the previously chosen theme. If there's no previous setting saved then it sets dark theme based on the browser's preferences.
